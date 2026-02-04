@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rubí",
+    "especialidades": [2, 3, 6],
+    "preferencia_recurso": "mesa_1",
+    "recursos_posibles": ["mesa_1", "mesa_2"],
+    "activo": true,
+    "color_calendario": "#FF6B6B"
+  },
+  {
+    "id": 2,
+    "nombre": "Samantha",
+    "especialidades": [1, 4, 5],
+    "preferencia_recurso": "mesa_2",
+    "recursos_posibles": ["mesa_2", "mesa_1"],
+    "activo": true,
+    "color_calendario": "#4ECDC4"
+  },
+  {
+    "id": 3,
+    "nombre": "Camila",
+    "especialidades": [6, 7, 8, 9, 10, 11, 12, 13, 14],
+    "preferencia_recurso": "camilla",
+    "recursos_posibles": ["camilla"],
+    "activo": true,
+    "color_calendario": "#FFD166"
+  }
+]

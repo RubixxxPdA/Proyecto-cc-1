@@ -1,0 +1,29 @@
+{
+  "horarios": {
+    "semana": {
+      "dias": ["lunes", "martes", "miercoles", "jueves", "viernes"],
+      "apertura": "09:00",
+      "cierre": "20:00"
+    },
+    "sabado": {
+      "dias": ["sabado"],
+      "apertura": "09:00",
+      "cierre": "18:00"
+    },
+    "domingo": {
+      "dias": ["domingo"],
+      "abre": false
+    },
+    "almuerzo": {
+      "inicio": "13:30",
+      "fin": "14:00",
+      "activo": true
+    }
+  },
+  "turnos": {
+    "intervalo_entre_turnos": 15,
+    "anticipacion_minima_horas": 2,
+    "anticipacion_maxima_dias": 30,
+    "max_turnos_dia": 25
+  }
+}

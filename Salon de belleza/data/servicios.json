@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nombre": "Manicura semipermanente",
+    "duracion_minutos": 60,
+    "precio_base": 5,
+    "categoria": "Uñas",
+    "descripcion": "Manicura con esmalte semipermanente",
+    "requiere_camilla": false,
+    "profesionales_posibles": [2]
+  },
+  {
+    "id": 2,
+    "nombre": "Manicura con polygel",
+    "duracion_minutos": 120,
+    "precio_base": 12,
+    "categoria": "Uñas",
+    "descripcion": "Manicura con aplicación de polygel",
+    "requiere_camilla": false,
+    "profesionales_posibles": [1]
+  },
+  {
+    "id": 3,
+    "nombre": "Manicura buildergel",
+    "duracion_minutos": 60,
+    "precio_base": 10,
+    "categoria": "Uñas",
+    "descripcion": "Manicura con buildergel",
+    "requiere_camilla": false,
+    "profesionales_posibles": [1]
+  },
+  {
+    "id": 4,
+    "nombre": "Pedicura",
+    "duracion_minutos": 45,
+    "precio_base": 5,
+    "categoria": "Uñas",
+    "descripcion": "Pedicura básica",
+    "requiere_camilla": false,
+    "profesionales_posibles": [2]
+  },
+  {
+    "id": 5,
+    "nombre": "Manicura semipermanente + Pedicura (Oferta)",
+    "duracion_minutos": 100,
+    "precio_base": 8,
+    "categoria": "Uñas",
+    "descripcion": "Combo especial de manicura semipermanente con pedicura",
+    "requiere_camilla": false,
+    "profesionales_posibles": [2]
+  },
+  {
+    "id": 6,
+    "nombre": "Depilación facial (cejas o bozo)",
+    "duracion_minutos": 20,
+    "precio_base": 3,
+    "categoria": "Depilación",
+    "descripcion": "Depilación de cejas o bozo",
+    "requiere_camilla": true,
+    "profesionales_posibles": [1, 3]
+  },
+  {
+    "id": 7,
+    "nombre": "Depilación axilas",
+    "duracion_minutos": 20,
+    "precio_base": 5,
+    "categoria": "Depilación",
+    "descripcion": "Depilación de axilas",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  },
+  {
+    "id": 8,
+    "nombre": "Depilación piernas completas",
+    "duracion_minutos": 60,
+    "precio_base": 15,
+    "categoria": "Depilación",
+    "descripcion": "Depilación de piernas completas",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  },
+  {
+    "id": 9,
+    "nombre": "Depilación bikini",
+    "duracion_minutos": 30,
+    "precio_base": 20,
+    "categoria": "Depilación",
+    "descripcion": "Depilación de bikini",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  },
+  {
+    "id": 10,
+    "nombre": "Lifting de pestañas",
+    "duracion_minutos": 60,
+    "precio_base": 5,
+    "categoria": "Pestañas",
+    "descripcion": "Lifting y tinte de pestañas",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  },
+  {
+    "id": 11,
+    "nombre": "Pestañas clásicas",
+    "duracion_minutos": 120,
+    "precio_base": 10,
+    "categoria": "Pestañas",
+    "descripcion": "Extensiones de pestañas clásicas",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  },
+  {
+    "id": 12,
+    "nombre": "Pestañas 2D",
+    "duracion_minutos": 120,
+    "precio_base": 13,
+    "categoria": "Pestañas",
+    "descripcion": "Extensiones de pestañas 2D",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  },
+  {
+    "id": 13,
+    "nombre": "Pestañas 3D",
+    "duracion_minutos": 150,
+    "precio_base": 15,
+    "categoria": "Pestañas",
+    "descripcion": "Extensiones de pestañas 3D",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  },
+  {
+    "id": 14,
+    "nombre": "Pestañas clásicas + Depilación cejas (Oferta)",
+    "duracion_minutos": 140,
+    "precio_base": 11,
+    "categoria": "Combo",
+    "descripcion": "Combo de pestañas clásicas con depilación de cejas",
+    "requiere_camilla": true,
+    "profesionales_posibles": [3]
+  }
+]
